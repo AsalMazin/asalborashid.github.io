@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Asal Mazin Al-Assaf</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@400;700&display=swap');
+        
+        body {
+            background-color: #000;
+            color: #0f0;
+            font-family: 'Source Code Pro', monospace;
+            text-align: center;
+            padding: 50px;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 20px;
+            margin: 5px 0;
+        }
+        .gif-container {
+            margin-top: 20px;
+        }
+        img {
+            width: 300px;
+            height: auto;
+            border: 2px solid #0f0;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Asal Mazin Al-Assaf</h1>
+    <p>Baghdad - Fallujah</p>
+    <p>2005/09/24</p>
+    <p>Programming Trainee</p>
+
+    <div class="gif-container">
+        <img src="https://media.tenor.com/-LO4uZVh3S0AAAAC/fnaf-chica.gif" alt="FNAF Attack GIF">
+    </div>
+
+</body>
+</html>
